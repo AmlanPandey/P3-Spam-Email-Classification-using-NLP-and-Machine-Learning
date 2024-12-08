@@ -2,7 +2,7 @@
 
 ![test](https://github.com/user-attachments/assets/3aa7391d-e768-40e3-941a-081c16a063b8)
 
-Spam Email Classifier Using NLP and Machine Learning
+# **Spam Email Classifier Using NLP and Machine Learning**
 Project Overview
 The Spam Email Classifier is a machine learning-based web application designed to classify emails as spam or not spam. Using Natural Language Processing (NLP) techniques and a Naïve Bayes classifier, this project offers an effective solution for identifying spam emails, improving email security and productivity.
 
