@@ -35,11 +35,10 @@ Clone the project repository to your local machine:
 This will launch the app, and Streamlit will provide a local URL (e.g., http://localhost:8501) where you can view the app in your browser.
 
 ### Project Components:
-1. **Data Preprocessing
-Removed stopwords and special characters.
-Text normalization by converting to lowercase.
-Lemmatization and stemming to reduce words to their root forms.**
+1. **Data PreprocessingRemoved stopwords and special characters.Text normalization by converting to lowercase.Lemmatization and stemming to reduce words to their root forms.**
+   
 2.**ModelingTrained a Naïve Bayes classifier on the preprocessed email text.**
+
 3.**Feature ExtractionUsed TF-IDF vectorization to convert text into numerical features.**
 ### Example Output:
 Input: "Congratulations! You've won a $1000 gift card. Click here to claim."
