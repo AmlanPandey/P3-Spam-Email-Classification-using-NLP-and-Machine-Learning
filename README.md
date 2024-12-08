@@ -8,11 +8,12 @@ The Spam Email Classifier is a machine learning-based web application designed t
 
 The application takes email content as input, applies preprocessing (like stopword removal, lemmatization, and stemming), and uses a pre-trained model to classify the text. The results are displayed in a user-friendly web interface built with Streamlit.
 
-Features
-1. Spam Classification: Classify email content as spam or not spam.
-2. User-Friendly Interface: Built using Streamlit for an intuitive experience.
-3. Efficient NLP: Includes techniques like stopword removal, lemmatization, stemming, and TF-IDF vectorization.
-4. Pre-trained Model: Classifier and vectorizer are saved and loaded using Pickle for faster execution.
+## Features
+
+1. **Spam Classification**: Classify email content as spam or not spam.
+2. **User-Friendly Interface**: Built using Streamlit for an intuitive experience.
+3. **Efficient NLP**: Includes techniques like stopword removal, lemmatization, stemming, and TF-IDF vectorization.
+4. **Pre-trained Model**: Classifier and vectorizer are saved and loaded using Pickle for faster execution.
 
 How to Run the Project
 1. Clone the Repository
