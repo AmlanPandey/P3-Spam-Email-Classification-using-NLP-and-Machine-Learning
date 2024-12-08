@@ -20,17 +20,18 @@ The application takes email content as input, applies preprocessing (like stopwo
 ### 1. Clone the Repository
 Clone the project repository to your local machine:
 
-```base git clone https://github.com/AmlanPandey/P3-Spam-Email-Classification-using-NLP-and-Machine-Learning.git```
+```git clone https://github.com/AmlanPandey/P3-Spam-Email-Classification-using-NLP-and-Machine-Learning.git```
+
 ```cd P3-Spam-Email-Classification-using-NLP-and-Machine-Learning```
 
 
 2. Install Dependencies
 Install the required libraries from requirements.txt:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 3. Run the Project
 Now that all dependencies are installed, run the Streamlit app:
-streamlit run app.py
+```streamlit run spamdect.py```
 This will launch the app, and Streamlit will provide a local URL (e.g., http://localhost:8501) where you can view the app in your browser.
 
 Project Components:
