@@ -20,8 +20,8 @@ The application takes email content as input, applies preprocessing (like stopwo
 ### 1. Clone the Repository
 Clone the project repository to your local machine:
 
-#git clone https://github.com/AmlanPandey/P3-Spam-Email-Classification-using-NLP-and-Machine-Learning.git
-cd P3-Spam-Email-Classification-using-NLP-and-Machine-Learning```
+git clone https://github.com/AmlanPandey/P3-Spam-Email-Classification-using-NLP-and-Machine-Learning.git
+cd P3-Spam-Email-Classification-using-NLP-and-Machine-Learning
 
 
 2. Install Dependencies
