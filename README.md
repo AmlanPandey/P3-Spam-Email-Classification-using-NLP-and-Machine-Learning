@@ -15,8 +15,10 @@ The application takes email content as input, applies preprocessing (like stopwo
 3. **Efficient NLP**: Includes techniques like stopword removal, lemmatization, stemming, and TF-IDF vectorization.
 4. **Pre-trained Model**: Classifier and vectorizer are saved and loaded using Pickle for faster execution.
 
-How to Run the Project
-1. Clone the Repository
+## How to Run the Project
+
+### 1. Clone the Repository
+Clone the project repository to your local machine:
 git clone https://github.com/AmlanPandey/P3-Spam-Email-Classification-using-NLP-and-Machine-Learning.git
 cd P3-Spam-Email-Classification-using-NLP-and-Machine-Learning
 
