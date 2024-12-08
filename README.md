@@ -25,16 +25,16 @@ Clone the project repository to your local machine:
 ```cd P3-Spam-Email-Classification-using-NLP-and-Machine-Learning```
 
 
-2. Install Dependencies
+###2. Install Dependencies
 Install the required libraries from requirements.txt:
 ```pip install -r requirements.txt```
 
-3. Run the Project
+###3. Run the Project
 Now that all dependencies are installed, run the Streamlit app:
 ```streamlit run spamdect.py```
 This will launch the app, and Streamlit will provide a local URL (e.g., http://localhost:8501) where you can view the app in your browser.
 
-Project Components:
+###Project Components:
 1. Data Preprocessing
 Removed stopwords and special characters.
 Text normalization by converting to lowercase.
@@ -43,7 +43,7 @@ Lemmatization and stemming to reduce words to their root forms.
 Trained a Naïve Bayes classifier on the preprocessed email text.
 3. Feature Extraction
 Used TF-IDF vectorization to convert text into numerical features.
-Example Output
+###Example Output:
 Input: "Congratulations! You've won a $1000 gift card. Click here to claim."
 
 Output: ❌ This is a spam email!
